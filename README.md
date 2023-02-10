@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pamela
 - 👩🏻‍💻 I’m interested in Frontend Development and UX/UI Design and want to get started in the tech industry !
-- 🌱 I’m currently learning React.js 
+-
 
 
 <!---
